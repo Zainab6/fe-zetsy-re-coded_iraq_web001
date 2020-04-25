@@ -2,7 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 h1 {
-  color:gray;
+  color:#778899;
   font-size:85px;
   
 }
@@ -22,5 +22,6 @@ body {
 }
 .necklace {
   border: 5px solid gray;
+  
 }
 /* Write all remaining styles here */
