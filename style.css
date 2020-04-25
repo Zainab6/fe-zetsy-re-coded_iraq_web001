@@ -37,3 +37,7 @@ body {
 .logos {
   border:5px solid #93A7BA ;
 }
+
+.rights {
+  float:right;
+}
