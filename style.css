@@ -2,8 +2,9 @@
 
 /* link the web font used for the level 1 heading here */
 h1 {
-  color:#93A7BA;
+  color:#8296AB;
   font-size:85px;
+  TRANS
   
 }
 /*////////// Global Styles //////////*/
@@ -23,10 +24,10 @@ body {
 
 /* Write all remaining styles here */
 .necklace {
-  border: 5px solid #93A7BA;
+  border: 5px solid #8296AB;
   }
   h2 {
-    color: #93A7BA;
+    color: #8296AB;
     font-size:30px;
     font-style: bold;
   }
@@ -35,7 +36,7 @@ body {
     color: #8296AB;
   }
 .logos {
-  border:5px solid #9FADBC ;
+  border:5px solid #8296AB ;
 }
 
 .rights {
