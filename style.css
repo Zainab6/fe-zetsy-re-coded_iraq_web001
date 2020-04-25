@@ -7,7 +7,9 @@ h1 {
   transition:background-color 0.5s ease;
   
 }
-h1:hover
+h1:hover {
+  color:#;
+}
 /*////////// Global Styles //////////*/
 
 body {
