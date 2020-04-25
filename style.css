@@ -4,7 +4,8 @@
 h1 {
   color:#8296AB;
   font-size:85px;
-  transition:background-color 0.5s ease
+  transition:background-color 0.5s ease;
+  background-color:;
   
 }
 /*////////// Global Styles //////////*/
