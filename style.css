@@ -4,7 +4,7 @@
 h1 {
   color:#8296AB;
   font-size:85px;
-  TRANS
+  transition: 0.5s
   
 }
 /*////////// Global Styles //////////*/
